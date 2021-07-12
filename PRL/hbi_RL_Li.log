@@ -1,0 +1,48 @@
+cbm_hbi_hbi                                       24-Mar-2021 13:18:02
+Running hierarchical bayesian inference (HBI)...
+
+HBI has been initialized according to
+	lap_RL.mat [for model 1]
+	lap_Li.mat [for model 2]
+ 
+Number of samples: 26
+Number of models: 2
+======================================================================
+Iteration 01
+Iteration 02
+	model frequencies (percent)
+	model 1: 84.1| model 2: 15.9| 
+                                                           dL:   15.19
+                                                           dm:   15.92
+                                                           dx:    0.62
+Iteration 03
+	model frequencies (percent)
+	model 1: 96.5| model 2: 3.5| 
+                                                           dL:    6.54
+                                                           dm:   12.38
+                                                           dx:    0.14
+Iteration 04
+	model frequencies (percent)
+	model 1: 99.9| model 2: 0.1| 
+                                                           dL:    5.44
+                                                           dm:    3.39
+                                                           dx:    0.20
+Iteration 05
+	model frequencies (percent)
+	model 1: 100.0| model 2: 0.0| 
+                                                           dL:    2.67
+                                                           dm:    0.14
+                                                           dx:    0.60
+Iteration 06
+	model frequencies (percent)
+	model 1: 100.0| model 2: 0.0| 
+                                                           dL:   -0.04
+                                                           dm:    0.00
+                                                           dx:    1.97
+Iteration 07
+	model frequencies (percent)
+	model 1: 100.0| model 2: 0.0| 
+                                                           dL:   -0.02
+                                                           dm:    0.00
+                                                           dx:    0.00
+                                                          Converged :]

@@ -1,4 +1,4 @@
-cbm_hbi                                           22-Aug-2018 11:40:34
+cbm_hbi_hbi                                       19-Apr-2021 14:33:45
 Running hierarchical bayesian inference (HBI)...
 
 HBI has been initialized according to
@@ -31,7 +31,7 @@ Iteration 05
 	model frequencies (percent)
 	model 1: 43.3| model 2: 56.7| 
                                                            dL:    4.28
-                                                           dm:    3.04
+                                                           dm:    3.03
                                                            dx:    0.16
 Iteration 06
 	model frequencies (percent)
